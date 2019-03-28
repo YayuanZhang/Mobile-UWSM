@@ -1,0 +1,40 @@
+Waf: Entering directory `/home/luviszero/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/home/luviszero/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.501s)
+-----------Initializing simulation-----------
+Creating Nodes
+-----------Running Simulation-----------
+3
+3
+DBR_SendingTimer
+23
+DBR_SendingTimer
+23
+3
+3
+3
+DBR_SendingTimer
+23
+5
+DBR_SendingTimer
+23
+DBR_SendingTimer
+23
+3
+DBR_SendingTimer
+23
+3
+3
+DBR_SendingTimer
+23
+DBR_SendingTimer
+23
+Channel Counters= SendUpFromChannel(1923) AllRecvers(should be =n*sendup)(5773) SchedPhyRecv(3850)
+SentPkts(Source_NetDevice->Stack):
+ (NetworkTotal) 1915
+SendUp Pkts(Sink_RoutingLayer):
+ (NetworkTotal) 4
+Recv Pkts(@PhyLayer):
+ (NetworkTotal) 778
+fin.
